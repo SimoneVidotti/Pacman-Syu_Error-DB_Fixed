@@ -1,4 +1,4 @@
-### Arch linux database block , fixed
+# Arch linux database block , fixed
 * Command: sudo pacman -Syu
 * Problem:
 :: Synchronizing package databases...
